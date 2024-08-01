@@ -1,4 +1,4 @@
 pandas
 streamlit
-ploty_express
+plotly_express
 
