@@ -1,3 +1,3 @@
 import pandas as pd
-import ploty.express as px
+import plotly.express as px
 import streamlit as st
